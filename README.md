@@ -3,6 +3,7 @@
 A spinning 3D donut rendered on the M5StickC Plus2's TFT display using ASCII-style characters, written in C for ESP-IDF.
 
 ---
+![am53h9](https://github.com/user-attachments/assets/b8db0f11-b065-4cb9-b6a5-72b69b6fbcea)
 
 ## What it does
 
